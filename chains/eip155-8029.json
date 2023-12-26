@@ -11,6 +11,5 @@
   "infoURL": "https://mdgl.io",
   "shortName": "mdgl",
   "chainId": 8029,
-  "networkId": 8029,
-  "slip44": 1
+  "networkId": 8029
 }

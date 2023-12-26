@@ -9,7 +9,6 @@
   "shortName": "tfire",
   "chainId": 917,
   "networkId": 917,
-  "slip44": 1,
   "explorers": [],
   "status": "incubating"
 }

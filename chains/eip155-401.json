@@ -12,7 +12,6 @@
   "shortName": "ozo_tst",
   "chainId": 401,
   "networkId": 401,
-  "slip44": 1,
   "icon": "ozonechain",
   "explorers": [
     {

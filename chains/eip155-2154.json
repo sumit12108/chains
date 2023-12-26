@@ -12,7 +12,6 @@
   "shortName": "findora-forge",
   "chainId": 2154,
   "networkId": 2154,
-  "slip44": 1,
   "explorers": [
     {
       "name": "findorascan",

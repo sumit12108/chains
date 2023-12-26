@@ -143,14 +143,6 @@
     "format": "png"
   }]
 }, {
-  "name": "muster",
-  "icons": [{
-    "url": "ipfs://bafkreiexm4aoscqo4d7dipicdgmfaemgzck2w7qhfp5mnoo7z2plcxleju",
-    "width": 512,
-    "height": 512,
-    "format": "png"
-  }]
-}, {
   "name": "egonicon",
   "icons": [{
     "url": "ipfs://QmNZiMmzMQYjyGtNSghtzLg4UooYhDgMQsa677DAP5KsBg",
@@ -292,14 +284,6 @@
     "url": "ipfs://QmatP9qMHEYoXqRDyHMTyjYRQa6j6Gk7pmv1QLxQkvpGRP",
     "width": 787,
     "height": 750,
-    "format": "png"
-  }]
-}, {
-  "name": "ethereumclassictestnet",
-  "icons": [{
-    "url": "ipfs://QmawMDPsaj3kBTZErCYQ3tshv5RrMAN3smWNs72m943Fyj",
-    "width": 200,
-    "height": 200,
     "format": "png"
   }]
 }, {
@@ -727,14 +711,6 @@
     "format": "png"
   }]
 }, {
-  "name": "ethereumclassic",
-  "icons": [{
-    "url": "ipfs://Qme7PT7gidTzRuf3T2JdxQ64JeZPgFH7yNBB8mYoMPbpTe",
-    "width": 200,
-    "height": 200,
-    "format": "png"
-  }]
-}, {
   "name": "bkc",
   "icons": [{
     "url": "ipfs://QmYFYwyquipwc9gURQGcEd4iAq7pq15chQrJ3zJJe9HuFT",
@@ -983,14 +959,6 @@
     "format": "svg"
   }]
 }, {
-  "name": "nume",
-  "icons": [{
-    "url": "ipfs://QmNbp1K6vKKFYh7bWeWtjBqKgdH88suDVbztP5CYU3pYNG",
-    "width": 1280,
-    "height": 1280,
-    "format": "png"
-  }]
-}, {
   "name": "astar",
   "icons": [{
     "url": "ipfs://Qmdvmx3p6gXBCLUMU1qivscaTNkT6h3URdhUTZCHLwKudg",
@@ -1028,14 +996,6 @@
     "url": "ipfs://QmVMBTZVPawyLBD2B5VbG68dfWLfZ1CnB8V59xduBe2kwh",
     "width": 84,
     "height": 84,
-    "format": "png"
-  }]
-}, {
-  "name": "conet",
-  "icons": [{
-    "url": "ipfs://bafkreibjxqd5kqcc2shstjjujvxzg6cwegwr6dgjyyd56v6h7yusgks7sy",
-    "width": 1200,
-    "height": 1200,
     "format": "png"
   }]
 }, {
@@ -1679,14 +1639,6 @@
     "format": "png"
   }]
 }, {
-  "name": "lyra",
-  "icons": [{
-    "url": "ipfs://bafkreifrvwcwcgs2luampufdbdgohuxue5rep3u4p4owmwskob7hzpcfdq",
-    "width": 2640,
-    "height": 2640,
-    "format": "png"
-  }]
-}, {
   "name": "mmt",
   "icons": [{
     "url": "ipfs://QmaF5gi2CbDKsJ2UchNkjBqmWjv8JEDP3vePBmxeUHiaK4",
@@ -1703,14 +1655,6 @@
     "format": "png"
   }]
 }, {
-  "name": "nordek",
-  "icons": [{
-    "url": "ipfs://bafkreie45fcr2hllmej2elwqpdxmiaycxmz25tl5ymraduhtefqndhlm4q",
-    "width": 222,
-    "height": 306,
-    "format": "png"
-  }]
-}, {
   "name": "maal-test",
   "icons": [{
     "url": "ipfs://bafkreiexfqfe2x4impvwhra3xxa5eb25gv25zi3kkaoatdnld7wbxdzf2a",
@@ -1724,14 +1668,6 @@
     "url": "ipfs://QmQyJt28h4wN3QHPXUQJQYQqGiFUD77han3zibZPzHbitk",
     "width": 1000,
     "height": 1436,
-    "format": "png"
-  }]
-}, {
-  "name": "combo",
-  "icons": [{
-    "url": "ipfs://QmRR4v6h6z21BpgS9xY3ExLB4Gkmm3i3dJWQx27oTGifq8",
-    "width": 800,
-    "height": 693,
     "format": "png"
   }]
 }, {
@@ -1757,14 +1693,6 @@
     "width": 400,
     "height": 400,
     "format": "png"
-  }]
-}, {
-  "name": "cybria",
-  "icons": [{
-    "url": "ipfs://bafkreiarso74bytq5ccnl3mlfhd4ejiylwautsr6ovbqgmynzjzmkorn6y",
-    "width": 500,
-    "height": 500,
-    "format": "svg"
   }]
 }, {
   "name": "immutable",
@@ -1812,14 +1740,6 @@
     "url": "ipfs://QmYSyhUqm6ArWyALBe3G64823ZpEUmFdkzKZ93hUUhNKgU",
     "width": 360,
     "height": 361,
-    "format": "png"
-  }]
-}, {
-  "name": "scalind",
-  "icons": [{
-    "url": "ipfs://QmayuauUTSkYxbT1xi2AkkG5VLEMDhcMeZ18WZHiApPa9M",
-    "width": 512,
-    "height": 512,
     "format": "png"
   }]
 }, {
@@ -2015,14 +1935,6 @@
     "format": "png"
   }]
 }, {
-  "name": "blastIcon",
-  "icons": [{
-    "url": "ipfs://QmdHpjiepU2Q4bt4kR48tKHPgaQW57Sb6UVFgLh4MCyg6U",
-    "width": 595,
-    "height": 582,
-    "format": "png"
-  }]
-}, {
   "name": "avescan",
   "icons": [{
     "url": "ipfs://QmeKQVv2QneHaaggw2NfpZ7DGMdjVhPywTdse5RzCs4oGn",
@@ -2135,14 +2047,6 @@
     "format": "png"
   }]
 }, {
-  "name": "ultrapro",
-  "icons": [{
-    "url": "ipfs://QmT11iJMLe9sAk5NiRQbe2wv1jtLFCs2sF2w9vFwDLkkgE",
-    "width": 500,
-    "height": 500,
-    "format": "png"
-  }]
-}, {
   "name": "vinuscan",
   "icons": [{
     "url": "ipfs://bafkreiayq7a5qncxzlilfnvpgzt4pwfxbof2qrqr2nyd2suztfummpty4i",
@@ -2196,14 +2100,6 @@
     "url": "ipfs://QmSgvmLpRsCiu2ySqyceA5xN4nwi7URJRNEZLffwEKXdoR",
     "width": 1028,
     "height": 1042,
-    "format": "png"
-  }]
-}, {
-  "name": "compverse",
-  "icons": [{
-    "url": "ipfs://QmYbskrGpidbMwsJekTeLrr8Z6GA9q4Uxh7piS1F9BdWWv",
-    "width": 256,
-    "height": 256,
     "format": "png"
   }]
 }, {
@@ -2527,11 +2423,11 @@
     "format": "png"
   }]
 }, {
-  "name": "astria",
+  "name": "changi",
   "icons": [{
-    "url": "ipfs://QmVbzZYXdVFY3uFaWQd7iSRtdM2UKWohj9fVqqEwxcw2RV",
-    "width": 200,
-    "height": 200,
+    "url": "ipfs://QmTFyaJFmkDQf35rVRzEf78nGThKAyUCW4BoRaKDi4nnV5",
+    "width": 720,
+    "height": 720,
     "format": "png"
   }]
 }, {
@@ -2663,14 +2559,6 @@
     "format": "png"
   }]
 }, {
-  "name": "grokicon",
-  "icons": [{
-    "url": "ipfs://bafkreicepw6yqtmubtpcthecjx47ndwgywartfqnkdhf66k3q57h2hlewm",
-    "width": 512,
-    "height": 512,
-    "format": "png"
-  }]
-}, {
   "name": "tritanium",
   "icons": [{
     "url": "ipfs://QmRm6gcEPJmU9a86zrmyP7FALTN4Toz9HrnrL2Kwg6FPeh",
@@ -2797,14 +2685,6 @@
     "width": 512,
     "height": 512,
     "format": "png"
-  }]
-}, {
-  "name": "engram",
-  "icons": [{
-    "url": "ipfs://bafkreidn7dolavrzgqxthydb6rt5iwuzm6cvkxqirzh2szarjspsdp4kyu",
-    "width": 400,
-    "height": 400,
-    "format": "svg"
   }]
 }, {
   "name": "soverun",
@@ -3479,14 +3359,6 @@
     "format": "png"
   }]
 }, {
-  "name": "latestChain",
-  "icons": [{
-    "url": "ipfs://QmUU784i1ZHDNwgXvt9weZmq6YbHHkyXvuDS7r4iDzao72",
-    "width": 1115,
-    "height": 1242,
-    "format": "png"
-  }]
-}, {
   "name": "xpla",
   "icons": [{
     "url": "ipfs://Qmf4GoxfpeA5VGqu7KP5eyv1WKaCpNDbvMxq1MjQBwFWxq",
@@ -3644,14 +3516,6 @@
     "url": "ipfs://QmbUcDQHCvheYQrWk9WFJRMW5fTJQmtZqkoGUed4bhCM7T",
     "width": 3000,
     "height": 3000,
-    "format": "png"
-  }]
-}, {
-  "name": "cybascan",
-  "icons": [{
-    "url": "ipfs://bafkreiagdqfrvnbdjhkh27gjbvepzo66dpqgnbffmpnywuw5ncprg3jk3u",
-    "width": 2264,
-    "height": 408,
     "format": "png"
   }]
 }, {

@@ -12,6 +12,5 @@
   "infoURL": "https://geth.ethereum.org",
   "shortName": "geth",
   "chainId": 1337,
-  "networkId": 1337,
-  "slip44": 1
+  "networkId": 1337
 }

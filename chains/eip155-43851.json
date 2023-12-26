@@ -13,7 +13,6 @@
   "shortName": "ZKFair-Testnet",
   "chainId": 43851,
   "networkId": 43851,
-  "slip44": 1,
   "icon": "zkfair",
   "explorers": [
     {

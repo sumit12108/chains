@@ -11,6 +11,5 @@
   "infoURL": "https://mathchain.org",
   "shortName": "tMATH",
   "chainId": 1140,
-  "networkId": 1140,
-  "slip44": 1
+  "networkId": 1140
 }

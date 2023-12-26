@@ -12,7 +12,6 @@
   "shortName": "wall-e",
   "chainId": 161,
   "networkId": 161,
-  "slip44": 1,
   "explorers": [
     {
       "name": "blockscout - evascan",

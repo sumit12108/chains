@@ -12,7 +12,6 @@
   "shortName": "TelosEVMTestnet",
   "chainId": 41,
   "networkId": 41,
-  "slip44": 1,
   "explorers": [
     {
       "name": "teloscan",

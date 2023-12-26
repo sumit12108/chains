@@ -13,7 +13,6 @@
   "shortName": "nyancat",
   "chainId": 16688,
   "networkId": 16688,
-  "slip44": 1,
   "icon": "nyancat",
   "explorers": [
     {

@@ -12,7 +12,6 @@
   "shortName": "bronos-testnet",
   "chainId": 1038,
   "networkId": 1038,
-  "slip44": 1,
   "icon": "bronos",
   "explorers": [
     {

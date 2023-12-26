@@ -12,7 +12,7 @@
   "shortName": "got",
   "chainId": 31337,
   "networkId": 31337,
-  "slip44": 1,
+  "slip44": 6060,
   "explorers": [
     {
       "name": "GoChain Testnet Explorer",

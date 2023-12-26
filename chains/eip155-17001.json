@@ -12,7 +12,6 @@
   "shortName": "redstone",
   "chainId": 17001,
   "networkId": 17001,
-  "slip44": 1,
   "icon": "redstone",
   "explorers": [
     {

@@ -12,7 +12,6 @@
   "shortName": "zksync-sepolia",
   "chainId": 300,
   "networkId": 300,
-  "slip44": 1,
   "icon": "zksync-era",
   "explorers": [
     {

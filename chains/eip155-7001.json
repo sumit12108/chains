@@ -13,7 +13,6 @@
   "shortName": "zetachain-athens",
   "chainId": 7001,
   "networkId": 7001,
-  "slip44": 1,
   "status": "active",
   "explorers": [
     {

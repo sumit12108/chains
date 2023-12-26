@@ -12,7 +12,6 @@
   "shortName": "dost",
   "chainId": 3939,
   "networkId": 3939,
-  "slip44": 1,
   "icon": "doschain",
   "explorers": [
     {

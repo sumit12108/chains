@@ -13,7 +13,6 @@
   "shortName": "tqom",
   "chainId": 7668378,
   "networkId": 7668378,
-  "slip44": 1,
   "icon": "qom",
   "explorers": [
     {

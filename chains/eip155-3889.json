@@ -14,7 +14,6 @@
   "shortName": "kalytestnet",
   "chainId": 3889,
   "networkId": 3889,
-  "slip44": 1,
   "explorers": [
     {
       "name": "KalyScan",

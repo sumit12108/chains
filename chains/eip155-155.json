@@ -14,7 +14,6 @@
   "shortName": "tenet-testnet",
   "chainId": 155,
   "networkId": 155,
-  "slip44": 1,
   "explorers": [
     {
       "name": "TenetScan Testnet",

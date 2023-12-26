@@ -5,11 +5,11 @@
   "faucets": [],
   "nativeCurrency": {
     "name": "JFIN Coin",
-    "symbol": "JFIN",
+    "symbol": "jfin",
     "decimals": 18
   },
   "infoURL": "https://jfinchain.com",
-  "shortName": "JFIN",
+  "shortName": "jfin",
   "chainId": 3501,
   "networkId": 3501,
   "explorers": [

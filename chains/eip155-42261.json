@@ -16,7 +16,6 @@
   "shortName": "emerald-testnet",
   "chainId": 42261,
   "networkId": 42261,
-  "slip44": 1,
   "explorers": [
     {
       "name": "Oasis Emerald Testnet Explorer",

@@ -12,7 +12,6 @@
   "shortName": "Fuji-EZChain",
   "chainId": 2613,
   "networkId": 2613,
-  "slip44": 1,
   "icon": "ezchain",
   "explorers": [
     {

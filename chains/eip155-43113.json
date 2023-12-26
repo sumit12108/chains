@@ -17,7 +17,6 @@
   "shortName": "Fuji",
   "chainId": 43113,
   "networkId": 1,
-  "slip44": 1,
   "explorers": [
     {
       "name": "snowtrace",

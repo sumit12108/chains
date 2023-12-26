@@ -5,7 +5,6 @@
   "shortName": "arb-goerli",
   "chain": "ETH",
   "networkId": 421613,
-  "slip44": 1,
   "nativeCurrency": {
     "name": "Arbitrum Goerli Ether",
     "symbol": "AGOR",

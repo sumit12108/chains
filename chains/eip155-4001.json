@@ -12,7 +12,6 @@
   "shortName": "PERIUM",
   "chainId": 4001,
   "networkId": 4001,
-  "slip44": 1,
   "icon": "peperium",
   "explorers": [
     {

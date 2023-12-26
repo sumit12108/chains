@@ -12,7 +12,6 @@
   "shortName": "opc",
   "chainId": 776,
   "networkId": 776,
-  "slip44": 1,
   "explorers": [
     {
       "name": "OPEN CHAIN TESTNET",

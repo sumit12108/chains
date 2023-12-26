@@ -12,7 +12,6 @@
   "shortName": "bombt",
   "chainId": 2399,
   "networkId": 2399,
-  "slip44": 1,
   "icon": "bomb",
   "explorers": [
     {

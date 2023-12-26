@@ -17,7 +17,6 @@
   "shortName": "conduit",
   "chainId": 78432,
   "networkId": 78432,
-  "slip44": 1,
   "explorers": [
     {
       "name": "CONDUIT Explorer",

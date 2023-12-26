@@ -11,7 +11,6 @@
   "shortName": "ZKST",
   "chainId": 18000,
   "networkId": 18000,
-  "slip44": 1,
   "infoURL": "https://goexosphere.com",
   "explorers": [
     {

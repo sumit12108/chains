@@ -13,7 +13,6 @@
   "shortName": "c2flr",
   "chainId": 114,
   "networkId": 114,
-  "slip44": 1,
   "explorers": [
     {
       "name": "blockscout",

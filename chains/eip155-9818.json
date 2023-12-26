@@ -15,7 +15,6 @@
   "shortName": "tIMP",
   "chainId": 9818,
   "networkId": 9818,
-  "slip44": 1,
   "icon": "timp",
   "explorers": [
     {

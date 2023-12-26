@@ -14,7 +14,7 @@
   "shortName": "tfsn",
   "chainId": 46688,
   "networkId": 46688,
-  "slip44": 1,
+  "slip44": 288,
   "explorers": [
     {
       "name": "fsnscan",

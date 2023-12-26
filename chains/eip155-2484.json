@@ -12,7 +12,6 @@
   "shortName": "u2u_nebulas",
   "chainId": 2484,
   "networkId": 2484,
-  "slip44": 1,
   "icon": "u2u_nebulas",
   "explorers": [
     {

@@ -11,6 +11,5 @@
   "infoURL": "https://munode.dev/",
   "shortName": "munode",
   "chainId": 956,
-  "networkId": 956,
-  "slip44": 1
+  "networkId": 956
 }

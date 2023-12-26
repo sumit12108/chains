@@ -13,7 +13,6 @@
   "shortName": "obe",
   "chainId": 156,
   "networkId": 156,
-  "slip44": 1,
   "icon": "oescan",
   "explorers": [
     {

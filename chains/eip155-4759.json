@@ -12,7 +12,6 @@
   "shortName": "TESTMEV",
   "chainId": 4759,
   "networkId": 4759,
-  "slip44": 1,
   "icon": "meverse",
   "explorers": [
     {

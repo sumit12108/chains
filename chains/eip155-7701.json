@@ -12,7 +12,6 @@
   "shortName": "TestnetCanto",
   "chainId": 7701,
   "networkId": 7701,
-  "slip44": 1,
   "explorers": [
     {
       "name": "Canto Testnet EVM Explorer (Blockscout)",

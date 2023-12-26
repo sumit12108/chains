@@ -12,7 +12,6 @@
   "shortName": "CICT",
   "chainId": 1252,
   "networkId": 1252,
-  "slip44": 1,
   "icon": "cicchain",
   "explorers": [
     {

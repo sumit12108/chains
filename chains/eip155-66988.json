@@ -13,7 +13,6 @@
   "shortName": "janusnetwork-testnet",
   "chainId": 66988,
   "networkId": 66988,
-  "slip44": 1,
   "status": "active",
   "explorers": [
     {

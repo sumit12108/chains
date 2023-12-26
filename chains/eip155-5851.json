@@ -22,7 +22,6 @@
   "shortName": "OntologyTestnet",
   "chainId": 5851,
   "networkId": 5851,
-  "slip44": 1,
   "explorers": [
     {
       "name": "explorer",

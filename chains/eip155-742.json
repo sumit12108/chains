@@ -12,7 +12,6 @@
   "shortName": "SPAY",
   "chainId": 742,
   "networkId": 742,
-  "slip44": 1,
   "explorers": [
     {
       "name": "Script Explorer",

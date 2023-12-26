@@ -12,7 +12,6 @@
   "shortName": "SPS-Test",
   "chainId": 14000,
   "networkId": 14000,
-  "slip44": 1,
   "explorers": [
     {
       "name": "SPS Test Explorer",

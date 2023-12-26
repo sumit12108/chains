@@ -12,7 +12,6 @@
   "shortName": "TRESTEST",
   "chainId": 6065,
   "networkId": 6065,
-  "slip44": 1,
   "icon": "tresleches",
   "explorers": [
     {

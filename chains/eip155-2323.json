@@ -18,7 +18,6 @@
   "shortName": "sma",
   "chainId": 2323,
   "networkId": 2323,
-  "slip44": 1,
   "icon": "soma",
   "explorers": [
     {

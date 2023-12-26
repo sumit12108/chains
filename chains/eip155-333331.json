@@ -20,7 +20,6 @@
   "shortName": "avst",
   "chainId": 333331,
   "networkId": 333331,
-  "slip44": 1,
   "icon": "aves",
   "explorers": [
     {

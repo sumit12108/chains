@@ -15,7 +15,6 @@
   "shortName": "joct",
   "chainId": 10081,
   "networkId": 10081,
-  "slip44": 1,
   "explorers": [
     {
       "name": "Testnet Block Explorer",

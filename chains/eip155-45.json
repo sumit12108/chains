@@ -14,7 +14,6 @@
   "shortName": "pangoro",
   "chainId": 45,
   "networkId": 45,
-  "slip44": 1,
   "explorers": [
     {
       "name": "subscan",

@@ -15,7 +15,6 @@
   "shortName": "ttrn",
   "chainId": 5353,
   "networkId": 5353,
-  "slip44": 1,
   "icon": "tritanium",
   "explorers": [
     {

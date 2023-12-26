@@ -13,7 +13,6 @@
   "shortName": "TLA",
   "chainId": 226,
   "networkId": 226,
-  "slip44": 1,
   "explorers": [
     {
       "name": "blockscout",

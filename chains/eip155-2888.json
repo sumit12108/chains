@@ -12,7 +12,6 @@
   "shortName": "BobaGoerli",
   "chainId": 2888,
   "networkId": 2888,
-  "slip44": 1,
   "explorers": [
     {
       "name": "Blockscout",

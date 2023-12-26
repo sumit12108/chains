@@ -21,7 +21,6 @@
   "shortName": "bnbt",
   "chainId": 97,
   "networkId": 97,
-  "slip44": 1,
   "explorers": [
     {
       "name": "bscscan-testnet",

@@ -23,7 +23,6 @@
   "shortName": "tntest",
   "chainId": 5005,
   "networkId": 5005,
-  "slip44": 1,
   "explorers": [
     {
       "name": "Treasurenet EVM BlockExplorer",

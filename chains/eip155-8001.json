@@ -12,7 +12,6 @@
   "shortName": "teleport-testnet",
   "chainId": 8001,
   "networkId": 8001,
-  "slip44": 1,
   "icon": "teleport",
   "explorers": [
     {

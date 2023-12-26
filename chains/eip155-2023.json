@@ -12,7 +12,6 @@
   "shortName": "taycan-testnet",
   "chainId": 2023,
   "networkId": 2023,
-  "slip44": 1,
   "icon": "shuffle",
   "explorers": [
     {

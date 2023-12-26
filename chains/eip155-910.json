@@ -11,6 +11,5 @@
   "infoURL": "https://decentrabone.com",
   "shortName": "DBONE",
   "chainId": 910,
-  "networkId": 910,
-  "slip44": 1
+  "networkId": 910
 }

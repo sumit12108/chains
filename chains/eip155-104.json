@@ -12,7 +12,6 @@
   "shortName": "tklc",
   "chainId": 104,
   "networkId": 104,
-  "slip44": 1,
   "icon": "kaiba",
   "explorers": [
     {

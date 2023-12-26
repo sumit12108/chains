@@ -12,7 +12,6 @@
   "shortName": "ntt-haradev",
   "chainId": 197710212031,
   "networkId": 197710212031,
-  "slip44": 1,
   "icon": "ntity",
   "explorers": [
     {

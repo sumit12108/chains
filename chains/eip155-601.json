@@ -1,7 +1,7 @@
 {
   "name": "PEER Testnet",
   "chain": "PEER",
-  "rpc": ["https://rpc-testnet.peer.inc"],
+  "rpc": ["http://testnet-polka-host-232813573.us-west-1.elb.amazonaws.com"],
   "faucets": ["https://testnet.peer.inc"],
   "nativeCurrency": {
     "name": "PEER Token",
@@ -12,7 +12,6 @@
   "shortName": "PEER",
   "chainId": 601,
   "networkId": 601,
-  "slip44": 1,
   "icon": "peer",
   "explorers": [
     {

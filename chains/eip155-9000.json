@@ -12,7 +12,6 @@
   "shortName": "evmos-testnet",
   "chainId": 9000,
   "networkId": 9000,
-  "slip44": 1,
   "icon": "evmos",
   "explorers": [
     {

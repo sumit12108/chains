@@ -13,7 +13,6 @@
   "shortName": "vsct",
   "chainId": 741,
   "networkId": 741,
-  "slip44": 1,
   "explorers": [
     {
       "name": "ventionscan",

@@ -12,7 +12,6 @@
   "shortName": "SNS",
   "chainId": 700,
   "networkId": 700,
-  "slip44": 1,
   "explorers": [
     {
       "name": "starscan",

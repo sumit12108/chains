@@ -17,7 +17,6 @@
   "shortName": "BobaoperaTestnet",
   "chainId": 4051,
   "networkId": 4051,
-  "slip44": 1,
   "explorers": [
     {
       "name": "Bobaopera Testnet block explorer",

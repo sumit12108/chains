@@ -12,7 +12,6 @@
   "shortName": "tCNT",
   "chainId": 371,
   "networkId": 371,
-  "slip44": 1,
   "icon": "constachain",
   "explorers": [
     {

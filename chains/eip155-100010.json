@@ -12,7 +12,6 @@
   "shortName": "vechain-testnet",
   "chainId": 100010,
   "networkId": 100010,
-  "slip44": 1,
   "explorers": [
     {
       "name": "VeChain Explorer",

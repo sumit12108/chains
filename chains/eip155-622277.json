@@ -5,8 +5,7 @@
     "https://rpc.hypra.network",
     "https://rpc.rethereum.org",
     "https://rethereum.rpc.restratagem.com",
-    "https://rpc.rthcentral.org",
-    "https://hypra.rpc.thirdweb.com"
+    "https://rpc.rthcentral.org"
   ],
   "faucets": [],
   "nativeCurrency": {
